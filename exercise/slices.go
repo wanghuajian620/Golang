@@ -8,7 +8,6 @@ package main
 import "fmt"
 
 func main() {
-
     // 使用内置的make方法创建一个非零长度的切片
 	s := make([]string, 3)
 	fmt.Println("emp:", s)

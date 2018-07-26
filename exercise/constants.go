@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 	"math"
-	)
+)
 
 // go 支持字符、字符串、布尔值和数值的常量
 // const 声明一个常量的值
